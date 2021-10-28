@@ -25,9 +25,7 @@
   <img align="center" alt="lfbond-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="lfbond-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  
- <img align="right" alt="Bond-Avatar" height="200" style="border-radius:100px;" src="https://user-images.githubusercontent.com/69223872/139166586-028b8bf9-4dc1-40f0-a341-b5cc7ddf8343.jpg?width=700&height=700">
- 
- 
+ <img align="right" alt="Bond-Avatar" height="200" style="border-radius:100px;" src="https://user-images.githubusercontent.com/69223872/139171219-c0711445-31a8-4371-9fc9-6059def591fd.png?width=700&height=700">
 
  
   ##
