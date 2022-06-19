@@ -2,7 +2,7 @@
 
 
  :rocket:  &nbsp; Estou trabalhando na **F1 Technology**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e aprendendo Back-end
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end e também usando React e aprendendo Back-end
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS6, Devil May Cry, Age of Mithology, Diablo, Left4Dead 1 e 2 e seriados no Netflix e Animes
 
 ##
