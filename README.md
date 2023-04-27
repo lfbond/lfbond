@@ -38,3 +38,5 @@
  
   
 </div>
+ 
+   ![Snake animation](https://github.com/lfbond/lfbond/blob/output/github-contribution-grid-snake.svg)
