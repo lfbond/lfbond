@@ -41,4 +41,4 @@
  
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
-  ![Snake animation](https://github.com/lfbond/lfbond/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![Snake animation](https://github.com/lfbond/lfbond/blob/output/github-contribution-grid-snake.svg) -->
