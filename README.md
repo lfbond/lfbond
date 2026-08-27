@@ -383,24 +383,6 @@ Além do código funcionar, procuro evoluir principalmente em:
 * Versionamento;
 * Documentação.
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=lfbond&show_icons=true&hide_border=true"
-  />
-
-<img
- height="170"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfbond&layout=compact&hide_border=true"
-/>
-
-</p>
-
----
 
 # 🤝 Vamos conversar?
 
