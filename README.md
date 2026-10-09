@@ -1,421 +1,159 @@
+<h1 align="center">Olá, eu sou Luís Felipe Bond 👋</h1>
 
-<h1 align="center">Olá! Eu sou o Luís Felipe Bond 👋</h1>
-
-<h3 align="center">
-  Desenvolvedor Front-end / Full Stack JavaScript Jr.
-</h3>
+<h3 align="center">Desenvolvedor Full Stack JavaScript Júnior</h3>
 
 <p align="center">
-  JavaScript • React.js • TypeScript • Node.js • HTML5 • CSS3 • APIs REST • Git
+  React.js • TypeScript • Node.js • Express • PostgreSQL • JavaScript
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luisfelipebond/">
-    LinkedIn
-  </a>
-  •
-  <a href="https://f1technology.com.br/portfolio/">
-    Portfólio
-  </a>
+  <a href="https://www.linkedin.com/in/luisfelipebond/">LinkedIn</a> •
+  <a href="https://f1technology.com.br/portfolio/">Portfólio</a> •
+  <a href="mailto:luisfelipe.bond@gmail.com">E-mail</a>
 </p>
+
+<p align="center"><strong>Aberto a oportunidades como Desenvolvedor Full Stack Júnior, Front-end React Júnior e Back-end Node.js Júnior.</strong></p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou **Luís Felipe Bond**, desenvolvedor com foco no ecossistema JavaScript, atualmente direcionando minha evolução profissional para oportunidades como **Desenvolvedor Front-end ou Full Stack JavaScript Júnior**.
+Sou desenvolvedor web com foco no ecossistema **JavaScript/TypeScript**, buscando minha primeira oportunidade em uma **equipe de desenvolvimento de software**.
 
-Minha trajetória na tecnologia começou antes do desenvolvimento de software, trabalhando com suporte técnico, hardware, redes e resolução de problemas.
+Por meio da **F1 Technology, minha empresa própria**, participei do desenvolvimento e da entrega de **quatro sites**, incluindo o site institucional da empresa. Minha experiência anterior em suporte técnico e infraestrutura fortaleceu minha capacidade de diagnosticar problemas, atender usuários e investigar soluções. Na Hipertec Sistemas, realizei, em média, **8 a 10 atendimentos técnicos por dia**, principalmente com suporte remoto.
 
-Essa experiência me ensinou algo que continuo levando para o desenvolvimento:
+Atualmente, aprofundo meus conhecimentos em **React, Node.js, APIs REST e PostgreSQL**, construindo e evoluindo projetos que podem ser examinados neste perfil. Busco aprender com revisões de código, colaboração em equipe e desafios reais de produto.
 
-> **Antes de escrever código, é preciso entender o problema que precisa ser resolvido.**
+> Antes de escrever código, procuro entender o problema que precisa ser resolvido.
 
-Hoje concentro meus estudos e projetos principalmente em **JavaScript, React.js e TypeScript**, enquanto continuo evoluindo meus conhecimentos de Back-end com **Node.js, APIs REST e bancos de dados**.
+---
 
-Mais do que acumular tecnologias, procuro construir projetos que me façam praticar conceitos utilizados no desenvolvimento real:
+## 🌟 Projetos em destaque
 
-- Componentização;
-- Responsividade;
-- Manipulação e gerenciamento de estado;
-- Consumo de APIs;
-- CRUD;
-- Persistência de dados;
-- Tratamento de erros;
-- Organização de código;
-- Git e GitHub;
-- Boas práticas de interface;
-- Evolução e refatoração de projetos.
+### 💰 [DT Money 2.0 — Aplicação financeira Full Stack](https://github.com/lfbond/DTMoney-Ignite-02)
+
+**Status:** projeto funcional, desenvolvido a partir de um exercício de estudo e evoluído para aplicação Full Stack de uso pessoal.
+
+- Frontend com **React e TypeScript** integrado a uma **API REST própria** em Node.js e Express.
+- Cadastro, consulta, atualização e exclusão de transações (**CRUD**).
+- Persistência em **PostgreSQL**, utilizando **Prisma ORM**.
+- Validação de dados com **Zod** e integração HTTP com **Axios**.
+- Evolução documentada de uma API simulada para uma arquitetura com backend e banco de dados reais.
+
+**Stack:** React, TypeScript, Vite, Node.js, Express, Prisma, PostgreSQL, Zod, Axios.
+
+🔗 [Código e documentação](https://github.com/lfbond/DTMoney-Ignite-02)
+
+### 🏋️ [Personal Trainer Manager — Gestão de treinos](https://github.com/lfbond/personal-trainer-manager)
+
+**Status:** 🚧 em desenvolvimento — MVP Web. Projeto desenvolvido para atender uma necessidade real, inicialmente sem remuneração.
+
+- Escopo do MVP: gestão de alunos, catálogo de exercícios e fichas de treino.
+- Arquitetura proposta com **React, TypeScript, Node.js, Express, Prisma e PostgreSQL**.
+- Desenvolvimento acompanhado por **Issues**, planejamento de entregas e branches de trabalho.
+- **Aplicativo Flutter/Dart planejado** para uma etapa posterior, consumindo a mesma API.
+
+**Importante:** os itens do escopo não significam que todas as funcionalidades já estejam concluídas. Consulte as Issues e a branch de desenvolvimento para acompanhar o progresso.
+
+🔗 [Repositório e roadmap](https://github.com/lfbond/personal-trainer-manager)
+
+### 📊 [DevMetrics — Dashboard de desenvolvimento](https://github.com/lfbond/devmetrics_dashboard)
+
+**Status:** 🚧 versão inicial funcional com dados simulados; integração com a API do GitHub planejada.
+
+- Dashboard e página de análises com **React e TypeScript**.
+- Gráficos com **Recharts**, navegação com **React Router** e componentes reutilizáveis.
+- Layout responsivo e modelos de dados tipados.
+- Documentação clara das funcionalidades existentes e limitações atuais.
+
+**Stack:** React, TypeScript, React Router, Recharts, CSS.
+
+🔗 [Código, imagens e documentação](https://github.com/lfbond/devmetrics_dashboard)
+
+### 🎮 [Pokédex — JavaScript e API externa](https://github.com/lfbond/projeto-pokemon-list-pessoal)
+
+Projeto de prática e refatoração com **JavaScript puro**, integração com a **PokéAPI**, pesquisa, tratamento de carregamento/erro e tema claro/escuro. Demonstra fundamentos de DOM, `fetch`, `async/await` e organização modular.
+
+🔗 [Código e documentação](https://github.com/lfbond/projeto-pokemon-list-pessoal)
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+### Foco principal — desenvolvimento web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,postgres,git,github,vite" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, PostgreSQL, Git, GitHub e Vite" />
+</p>
+
+- **Front-end:** HTML5, CSS3, JavaScript, TypeScript, React, Styled Components.
+- **Back-end:** Node.js, Express, APIs REST, validação com Zod.
+- **Dados:** SQL, PostgreSQL, Prisma ORM.
+- **Ferramentas:** Git, GitHub, VS Code, Vite, Axios.
+
+### Outros conhecimentos em evolução
+
+Flutter, Dart e outras tecnologias estudadas ao longo da minha trajetória. Elas não substituem o foco atual em **Full Stack JavaScript**.
+
+---
+
+## 💼 Experiência prática
+
+**F1 Technology — Desenvolvimento web independente (desde 2022)**
+
+- **Quatro sites entregues**, incluindo o site institucional e projetos para clientes.
+- Desenvolvimento de interfaces web e páginas responsivas.
+- Publicação do portfólio da F1 Technology em **WordPress**, escolhido para colocar os trabalhos no ar com agilidade.
+- Participação no desenvolvimento de um sistema interno para academia de Kung Fu, **sem implantação em produção**; o escopo incluía gestão de matrículas, turmas, presença e acesso a materiais por graduação.
+
+**Hipertec Sistemas — Suporte técnico (2019)**
+
+- Média de **8 a 10 atendimentos por dia**, com diagnóstico, acesso remoto e suporte a usuários.
+
+Minha experiência comercial com sites e meus projetos pessoais Full Stack são experiências diferentes; apresento ambas com transparência.
+
+---
+
+## 📈 Como venho evoluindo
+
+```text
+HTML e CSS → JavaScript e DOM → APIs → React → TypeScript
+                                            ↓
+                              Node.js + Express + SQL
+                                            ↓
+                             Aplicações Full Stack
+                                            ↓
+                         Testes, documentação e deploy
+```
+
+Meu processo de desenvolvimento procura seguir um ciclo contínuo:
+
+1. Entender o problema e delimitar o MVP.
+2. Organizar tarefas e critérios de conclusão.
+3. Implementar em etapas e utilizar Git para registrar mudanças.
+4. Testar os fluxos desenvolvidos e corrigir problemas.
+5. Documentar decisões, limitações e próximos passos.
+6. Publicar quando a aplicação estiver pronta para isso.
+
+**O que procuro melhorar continuamente:** qualidade de código, testes automatizados, arquitetura, acessibilidade, responsividade, segurança e colaboração em equipe.
 
 ---
 
 ## 🎯 Objetivo profissional
 
-Estou buscando minha próxima oportunidade como:
+Busco uma oportunidade como **Desenvolvedor Full Stack Júnior**, **Front-end React Júnior** ou **Back-end Node.js Júnior**.
 
-- **Desenvolvedor Front-end Júnior**
-- **Desenvolvedor React Júnior**
-- **Desenvolvedor JavaScript Júnior**
-- **Desenvolvedor Full Stack JavaScript Júnior**
+Tenho interesse em empresas que valorizem **aprendizado, mentoria, feedback, boas práticas de engenharia e plano de carreira**. Quero contribuir com o que já sei, receber revisões de profissionais mais experientes e evoluir dentro de uma equipe.
 
-Tenho interesse em oportunidades:
-
-🌎 **Remotas em todo o Brasil**
-
-🏢 **Híbridas**
-
-📍 **Presenciais em Goiânia ou Anápolis - GO**
-
-Procuro uma equipe onde eu possa contribuir com o conhecimento que já construí, receber feedback, trabalhar em projetos reais e continuar evoluindo tecnicamente.
+**Modalidade:** aberto a oportunidades remotas; modalidades híbrida e presencial conforme a localização da vaga.
 
 ---
 
-## 🚀 Desafio atual: construindo para aprender
+## 🤝 Vamos conversar?
 
-Atualmente estou realizando um desafio pessoal focado em desenvolvimento Front-end:
+- 💼 [LinkedIn](https://www.linkedin.com/in/luisfelipebond/)
+- 🌐 [Portfólio](https://f1technology.com.br/portfolio/)
+- 💻 [Repositórios](https://github.com/lfbond?tab=repositories)
+- ✉️ [E-mail](mailto:luisfelipe.bond@gmail.com)
 
-### `HTML → CSS → JavaScript → APIs → React → TypeScript → React + TypeScript`
-
-A proposta é transformar estudo em prática através de pequenos projetos completos.
-
-Cada projeto passa por um ciclo:
-
-```text
-Planejamento
-     ↓
-Desenvolvimento
-     ↓
-Responsividade
-     ↓
-Testes
-     ↓
-Git / GitHub
-     ↓
-README
-     ↓
-Deploy
-     ↓
-Documentação do aprendizado
-````
-
-Meu objetivo não é simplesmente aumentar o número de repositórios.
-
-Quero que cada novo projeto represente **uma habilidade que consigo demonstrar na prática**.
-
----
-
-## 🧠 Atualmente aprimorando
-
-```javascript
-const luisFelipe = {
-  focus: [
-    "JavaScript",
-    "React.js",
-    "TypeScript",
-    "Node.js"
-  ],
-
-  improving: [
-    "Component Architecture",
-    "REST APIs",
-    "State Management",
-    "Clean Code",
-    "Responsive Design",
-    "Git & GitHub"
-  ],
-
-  careerGoal: "Frontend / Full Stack JavaScript Developer Jr.",
-
-  openToWork: true
-};
-```
-
----
-
-# 🛠️ Tecnologias
-
-## Front-end
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,bootstrap" />
-</p>
-
-**HTML5 • CSS3 • JavaScript • TypeScript • React.js • Angular • Tailwind CSS • Bootstrap**
-
----
-
-## Back-end
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python" />
-</p>
-
-**Node.js • PHP • Laravel • Python**
-
----
-
-## Banco de Dados
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
-</p>
-
-**MySQL • PostgreSQL • MongoDB • Firebase**
-
----
-
-## Ferramentas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm" />
-</p>
-
-**Git • GitHub • VS Code • Vite • npm**
-
----
-
-# 💻 O que você encontrará neste GitHub
-
-Meus repositórios documentam diferentes etapas da minha evolução como desenvolvedor.
-
-Você encontrará projetos envolvendo:
-
-### 🎨 Interfaces
-
-* Landing pages;
-* Sites institucionais;
-* Dashboards;
-* Interfaces responsivas;
-* Formulários;
-* Componentes reutilizáveis.
-
-### 🟨 JavaScript
-
-* Manipulação do DOM;
-* Eventos;
-* Arrays;
-* `map()`;
-* `filter()`;
-* `reduce()`;
-* LocalStorage;
-* Validações;
-* CRUD.
-
-### 🔌 APIs
-
-* Fetch API;
-* `async/await`;
-* Consumo de APIs REST;
-* Loading states;
-* Error handling;
-* Manipulação de respostas JSON.
-
-### ⚛️ React
-
-* Componentização;
-* Props;
-* `useState`;
-* `useEffect`;
-* Renderização condicional;
-* Listas;
-* Formulários;
-* Gerenciamento de estado.
-
-### 🔷 TypeScript
-
-* Interfaces;
-* Types;
-* Union Types;
-* Tipagem de funções;
-* Tipagem de componentes React;
-* Modelagem de dados.
-
----
-
-# 🌟 Projetos em destaque
-
-> Esta seção será atualizada continuamente conforme novos projetos do meu desafio Front-end forem concluídos.
-
-## 💼 HireFlow
-
-**React + TypeScript**
-
-Aplicação Front-end para gerenciamento de candidatos, criada simulando um desafio técnico.
-
-Principais conceitos:
-
-* CRUD;
-* Busca;
-* Filtros;
-* Mudança de status;
-* Componentização;
-* TypeScript;
-* Persistência de dados.
-
-`🚧 Em desenvolvimento durante o desafio Front-end`
-
----
-
-## 📋 DevBoard Pro
-
-**React + TypeScript**
-
-Aplicação Kanban para gerenciamento de tarefas.
-
-Principais conceitos:
-
-* Componentização;
-* Gerenciamento de estado;
-* Tipagem;
-* Filtros;
-* Persistência;
-* Organização de componentes.
-
-`🚧 Em desenvolvimento durante o desafio Front-end`
-
----
-
-## 📊 DevMetrics
-
-**React + TypeScript**
-
-Dashboard administrativo desenvolvido para praticar criação de interfaces próximas de sistemas empresariais.
-
-Principais conceitos:
-
-* Dashboard;
-* Component architecture;
-* CSS Grid;
-* Responsividade;
-* Tipagem;
-* Reutilização de componentes.
-
-`🚧 Em desenvolvimento durante o desafio Front-end`
-
----
-
-## 💰 FinanceTrack
-
-Aplicação para gerenciamento de receitas e despesas.
-
-Conceitos praticados:
-
-* CRUD;
-* Arrays;
-* `map()`;
-* `filter()`;
-* `reduce()`;
-* LocalStorage;
-* Formatação monetária;
-* Gerenciamento de dados.
-
----
-
-# 📈 Minha evolução
-
-Meu objetivo com este GitHub é tornar minha evolução visível.
-
-```text
-HTML + CSS
-    │
-    ▼
-JavaScript
-    │
-    ├── DOM
-    ├── Eventos
-    ├── LocalStorage
-    └── APIs
-         │
-         ▼
-       React
-         │
-    ├── Hooks
-    ├── Props
-    └── Components
-         │
-         ▼
-     TypeScript
-         │
-         ▼
- React + TypeScript
-         │
-         ▼
-Aplicações cada vez
-mais próximas de
-produtos reais
-```
-
----
-
-# 📚 Como gosto de aprender
-
-Acredito em aprendizado baseado em prática.
-
-Minha rotina de evolução segue principalmente este processo:
-
-1. Entender o conceito;
-2. Construir algo utilizando esse conceito;
-3. Encontrar problemas;
-4. Pesquisar soluções;
-5. Refatorar;
-6. Documentar;
-7. Publicar;
-8. Aplicar novamente em um projeto mais complexo.
-
-Não espero saber tudo para começar.
-
-Prefiro construir, identificar minhas limitações e evoluir através da prática contínua.
-
----
-
-# 🔎 O que valorizo no desenvolvimento
-
-Além do código funcionar, procuro evoluir principalmente em:
-
-* Clareza;
-* Organização;
-* Responsividade;
-* Manutenibilidade;
-* Componentização;
-* Experiência do usuário;
-* Tratamento de erros;
-* Nomenclatura;
-* Versionamento;
-* Documentação.
-
-
-# 🤝 Vamos conversar?
-
-Estou aberto a oportunidades e conexões com:
-
-* Tech Recruiters;
-* Desenvolvedores;
-* Tech Leads;
-* Equipes de desenvolvimento;
-* Empresas de tecnologia;
-* Pessoas que também estejam evoluindo no ecossistema JavaScript.
-
-Se meu perfil fizer sentido para sua equipe ou para alguma oportunidade que você conheça, será um prazer conversar.
-
-### 📫 Contato
-
-🌐 **Portfólio:**
-https://f1technology.com.br/portfolio/
-
-💼 **LinkedIn:**
-https://www.linkedin.com/in/luisfelipebond/
-
-💻 **GitHub:**
-https://github.com/lfbond
-
----
-
-<p align="center">
-  <strong>Construindo. Aprendendo. Evoluindo. 🚀</strong>
-</p>
-
-<p align="center">
-  Buscando minha próxima oportunidade como<br>
-  <strong>Front-end / Full Stack JavaScript Developer Jr.</strong>
-</p>
-```
+<p align="center"><strong>Construindo. Aprendendo. Evoluindo. 🚀</strong></p>
